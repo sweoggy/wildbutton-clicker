@@ -1,0 +1,6 @@
+When button appears:
+
+
+When winning:
+string():"{\"token\":\"hh8E8KWypiEfaQN9n1iLw4RR\",\"team_id\":\"TM5ES7UU8\",\"api_app_id\":\"A02RLUD42MC\",\"event\":{\"type\":\"message\",\"subtype\":\"message_changed\",\"hidden\":true,\"message\":{\"type\":\"message\",\"subtype\":\"bot_message\",\"text\":\"The button has a winner!\",\"user\":\"U02SHAP4N9E\",\"bot_id\":\"B02S687HD09\",\"blocks\":[{\"type\":\"section\",\"block_id\":\"Sym\",\"text\":{\"type\":\"mrkdwn\",\"text\":\"*A wild BUTTON appears!*\",\"verbatim\":false}},{\"type\":\"section\",\"block_id\":\"xKW\",\"text\":{\"type\":\"mrkdwn\",\"text\":\":heavy_check_mark: <@UM7AZTNF9> won (301"
+
