@@ -1,0 +1,17 @@
+_metadata:
+  major_version: 1
+  minor_version: 1
+display_information:
+  name: Wildbutton clicker
+oauth_config:
+  scopes:
+    user:
+      - channels:history
+settings:
+  event_subscriptions:
+    request_url: https://yourhost/slack-events
+    user_events:
+      - message.channels
+  org_deploy_enabled: false
+  socket_mode_enabled: false
+  token_rotation_enabled: false
