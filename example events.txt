@@ -1,4 +1,80 @@
 When button appears:
+2021/12/24 16:08:10 Got slack events body {"token":"hh8E8KWypiEfaQN9n1iLw4RR","team_id":"TM5ES7UU8","api_app_id":"A02RLUD42MC","event":{"bot_id":"B02S687HD09","type":"message","text":"A wild BUTTON appears!","user":"U02SHAP4N9E","ts":"1640358490.000100","team":"TM5ES7UU8","bot_profile":{"id":"B02S687HD09","deleted":false,"name":"wildbutton","updated":1640274010,"app_id":"A01986ZJ32L","icons":{"image_36":"https:\/\/avatars.slack-edge.com\/2021-01-13\/1632870473154_1b20cf09aab2b155ba86_36.png","image_48":"https:\/\/avatars.slack-edge.com\/2021-01-13\/1632870473154_1b20cf09aab2b155ba86_48.png","image_72":"https:\/\/avatars.slack-edge.com\/2021-01-13\/1632870473154_1b20cf09aab2b155ba86_72.png"},"team_id":"TM5ES7UU8"},"blocks":[{"type":"section","block_id":"5lE","text":{"type":"mrkdwn","text":"*A wild BUTTON appears!*","verbatim":false}},{"type":"actions","block_id":"zaX","elements":[{"type":"button","action_id":"wild_button","text":{"type":"plain_text","text":"Click it!","emoji":true},"style":"primary","value":"2021-12-24T15:08:10.000Z"}]}],"channel":"CLU2N68SW","event_ts":"1640358490.000100","channel_type":"channel"},"type":"event_callback","event_id":"Ev02RGNLN9QX","event_time":1640358490,"authorizations":[{"enterprise_id":null,"team_id":"TM5ES7UU8","user_id":"UM7AZTNF9","is_bot":false,"is_enterprise_install":false}],"is_ext_shared_channel":false,"event_context":"4-eyJldCI6Im1lc3NhZ2UiLCJ0aWQiOiJUTTVFUzdVVTgiLCJhaWQiOiJBMDJSTFVENDJNQyIsImNpZCI6IkNMVTJONjhTVyJ9"}
+{
+
+    "token":"hh8E8KWypiEfaQN9n1iLw4RR",
+    "team_id":"TM5ES7UU8",
+    "api_app_id":"A02RLUD42MC",
+    "event":{
+        "bot_id":"B02S687HD09",
+        "type":"message",
+        "text":"A wild BUTTON appears!",
+        "user":"U02SHAP4N9E",
+        "ts":"1640358490.000100",
+        "team":"TM5ES7UU8",
+        "bot_profile":{
+            "id":"B02S687HD09",
+            "deleted":false,
+            "name":"wildbutton",
+            "updated":1640274010,
+            "app_id":"A01986ZJ32L",
+            "icons":{
+                "image_36":"https:\/\/avatars.slack-edge.com\/2021-01-13\/1632870473154_1b20cf09aab2b155ba86_36.png",
+                "image_48":"https:\/\/avatars.slack-edge.com\/2021-01-13\/1632870473154_1b20cf09aab2b155ba86_48.png",
+                "image_72":"https:\/\/avatars.slack-edge.com\/2021-01-13\/1632870473154_1b20cf09aab2b155ba86_72.png"
+            },
+            "team_id":"TM5ES7UU8"
+        },
+        "blocks":[
+            {
+                "type":"section",
+                "block_id":"5lE",
+                "text":{
+                    "type":"mrkdwn",
+                    "text":"*A wild BUTTON appears!*",
+                    "verbatim":false
+                }
+            },
+            {
+                "type":"actions",
+                "block_id":"zaX",
+                "elements":[
+                    {
+                        "type":"button",
+                        "action_id":"wild_button",
+                        "text":{
+                            "type":"plain_text",
+                            "text":"Click it!",
+                            "emoji":true
+                        },
+                        "style":"primary",
+                        "value":"2021-12-24T15:08:10.000Z"
+                    }
+                ]
+            }
+        ],
+        "channel":"CLU2N68SW",
+        "event_ts":"1640358490.000100",
+        "channel_type":"channel"
+    },
+    "type":"event_callback",
+    "event_id":"Ev02RGNLN9QX",
+    "event_time":1640358490,
+    "authorizations":[
+        {
+            "enterprise_id":null,
+            "team_id":"TM5ES7UU8",
+            "user_id":"UM7AZTNF9",
+            "is_bot":false,
+            "is_enterprise_install":false
+        }
+    ],
+    "is_ext_shared_channel":false,
+    "event_context":"4-eyJldCI6Im1lc3NhZ2UiLCJ0aWQiOiJUTTVFUzdVVTgiLCJhaWQiOiJBMDJSTFVENDJNQyIsImNpZCI6IkNMVTJONjhTVyJ9"
+
+}
+
+
 
 
 When winning:
